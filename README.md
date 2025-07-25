@@ -1,2 +1,2 @@
-# windows-sysmon-log-monitoring
-A practical SIEM lab project focused on collecting and analyzing Windows 10 security events using Sysmon. This repository showcases how to configure Sysmon for detailed event logging, ingest logs into Elasticsearch, and create detection rules and security alerts to simulate real-world SOC analyst workflows.
+# Windows Sysmon SIEM Lab 🚀
+_A hands-on project to simulate SOC operations by monitoring Windows 10 security events using Sysmon and the ELK Stack._
